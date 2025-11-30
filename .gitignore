@@ -5,3 +5,7 @@
 *.7z
 *.vscode
 *.swp
+!HW6/answer/*
+!HW6/testcase/*
+!HW6/tarfs/*
+
